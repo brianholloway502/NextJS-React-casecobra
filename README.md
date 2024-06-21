@@ -1,3 +1,5 @@
+**CURRENTLY WORKING ON THIS AS IT IS BEING DONE WHILE WATCHING A NEXT.JS TUTORIAL. THIS IS NOT COMPLETE.**
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
